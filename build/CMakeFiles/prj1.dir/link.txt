@@ -1,0 +1,3 @@
+C:\msys64\clang64\bin\cmake.exe -E rm -f CMakeFiles\prj1.dir/objects.a
+C:\msys64\clang64\bin\llvm-ar.exe qc CMakeFiles\prj1.dir/objects.a @CMakeFiles\prj1.dir\objects1.rsp
+C:\msys64\clang64\bin\clang++.exe -g -Wl,--whole-archive CMakeFiles\prj1.dir/objects.a -Wl,--no-whole-archive -o prj1.exe -Wl,--out-implib,libprj1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\prj1.dir\linkLibs.rsp

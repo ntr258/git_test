@@ -1,0 +1,8 @@
+[
+{
+  "directory": "F:/git/git_test/build",
+  "command": "C:\\msys64\\clang64\\bin\\clang++.exe  @CMakeFiles/prj1.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\prj1.dir\\src\\prj1\\c++.cpp.obj -c F:\\git\\git_test\\src\\prj1\\c++.cpp",
+  "file": "F:/git/git_test/src/prj1/c++.cpp",
+  "output": "CMakeFiles/prj1.dir/src/prj1/c++.cpp.obj"
+}
+]

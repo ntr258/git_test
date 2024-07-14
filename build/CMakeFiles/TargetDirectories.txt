@@ -1,0 +1,3 @@
+F:/git/git_test/build/CMakeFiles/prj1.dir
+F:/git/git_test/build/CMakeFiles/edit_cache.dir
+F:/git/git_test/build/CMakeFiles/rebuild_cache.dir
